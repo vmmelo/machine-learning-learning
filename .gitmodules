@@ -1,6 +1,6 @@
-[submodule "machine-learning-introducao-a-classificacao-com-sklearn"]
-	path = projetos-alura/machine-learning-introducao-a-classificacao-com-sklearn
-	url = git@github.com:alura-cursos/machine-learning-introducao-a-classificacao-com-sklearn.git
-[submodule "machine-learning-algoritmos-nao-supervisionados"]
-	path = projetos-alura/machine-learning-algoritmos-nao-supervisionados
+[submodule "projetos-alura/algoritmos-nao-supervisionados"]
+	path = projetos-alura/algoritmos-nao-supervisionados
 	url = git@github.com:alura-cursos/machine-learning-algoritmos-nao-supervisionados.git
+[submodule "projetos-alura/introducao-sklearn"]
+	path = projetos-alura/introducao-sklearn
+	url = git@github.com:alura-cursos/machine-learning-introducao-a-classificacao-com-sklearn.git
