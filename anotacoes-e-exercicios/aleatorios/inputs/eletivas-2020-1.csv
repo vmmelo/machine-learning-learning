@@ -1,0 +1,32 @@
+turma,disciplina,professor,dia1,dia2,sala
+I9,IF790 Projeto de Monitoria 1,Valéria Times,"qua, 19-20:30",,A014
+I9,IF788 Iniciação Científica 1,Teresa Ludermir,"ter, 17-20:30", ,B020
+I9,IF789 Iniciação Científica 2,Teresa Ludermir,"qua, 17-20:30",,B020
+I9,IF738 Redes de Computadores,Djamel Sadok,"seg, 10-12","qua, 08-10",E132
+I9,IF738 Redes de Computadores,Djamel Sadok,"seg, 8-10","qua, 10-12",E132
+I9,IF703 Agentes Autônomos,Patrícia Tedesco/Sérgio Queiroz,"seg, 13-15","qua, 15-17",E131
+E9,IF699 Aprendizagem de Máquina,George Darmiton,"qua, 10-12","sex, 8-10",E112
+I9,IF783 Gestão de Negócios (equivalente a AD783),Carina Alves,"qua, 10-12","sex, 8-10",E113
+I9,IF716 Especificação de Requisitos e Validação de Sistemas,Jaelson Castro,"seg, 17-19","qua, 17-19",D003
+I9,IF777 TOP.AVANC. MATEMAT. COMPUT. (com IN1087),Ricardo Martins,ter 15-17,qui 13-15,B020
+I9,IF722 TOPICOS AVANCADOS ENG. SOFTWARE (CC+EC),Paulo Borba,"qua, 10-12","sex, 8-10",D005
+E9,IF728 Engenharia de Sistemas Embutidos,Sérgio Cavalcante,"seg, 13-15","seg, 15-17",Lab  Hard.
+I9,IF768 TEORIA DE GRAFOS,Sóstenes Lins,qua 13-15,sex 15-17,E131
+I9,IF781 Empreendimentos em Informática (com IN1167),Paulo Adeodato,"ter, 10-12","qui, 8-10",E233
+E9,"IF747 - Tópicos Avançados em Redes de Computadores (Redes ad hoc, de sensores e IoT) (com IN1055)",Renato Mariz de Moraes,"qua, 13-15",sex 13-15,E233
+I9,IF702 REDES NEURAIS,Germano Vasconcelos,qua 17-19,sex 17-19,D004
+I9,IF811-TOPICOS AVANC ADMINIST. SIST. SEG,Marcelo d'Amorim,"ter, 08-10","qui, 10-12",E122
+I9,IF720 QUALIDADE DE SOFTWARE,Alexandre Vasconcelos,"qua, 13-15","sex, 15-17",E113
+I9,IF721 SISTEMAS CRITICOS,Gustavo Carvalho,"seg , 8-10","sex, 10-12",E232
+I9,IF706 TOPICOS AVANC.INTELEG.ARTIFICIAL - turma I9,Paulo Salgado,ter 10- 12,qui 08- 10,E122
+I8,IF697 TOPICOS AVANC.GERENC DADOS - turma I8,Luciano de Andrade Barbosa,"ter, 15-17","qui, 13-15",E121
+I9,IF740 SISTEMAS DE COMUNICACAO,Paulo Gonçalves,"ter, 10-12","qui, 08-10",E132
+I9,IF707 SEMIN. EM INTELIGENCIA ARTIFICIAL,Teresa Ludermir,"seg, 8-10", ,E112
+I9,IF711 PROGRAM. CONCORRENTE DISTRIBUIDA,Nelson Souto Rosa,seg 8-10,qua 10-12,E122
+I9,IF754 COMPUTACAO MUSICAL PROCESSAM.SOM (com IN1132),Giordano Cabral/Geber Ramalho,ter 10-12,qui 8-10,E113
+I9,IF724 - TOPICOS AVAN½.LING.COMPUTACIONAIS,Henrique Rebelo,qua 15-17,sex 13-15,E113
+I9,IF763 - ALGEBRA LINEAR AVANC. COMPUTACAO (com IN1087 e MA533),Silvio Melo,"ter, 13-15","qui, 15-17",E113
+I9,IF760 - TOPICOS AVANCADOS EM MIDIAS,Silvio Melo,"ter, 15-17","qui, 13-15",E113
+I9,IF826 - Tópicos Avançados em Sistemas Inteligentes e Robótica,Hansenclever Bassani,"ter, 13-15","qui, 15-17",E131
+I9,IF795 - SIST.SUPORTE DECISAO MINER. DADOS (com IN1144),Paulo Adeodato,"ter, 8-10","qui, 10-12",E233
+E9,IF698-SEMINÁRIO GERENC. DADOS E INFORMAÇÃO,Ruy Guerra,"qua, 12-14",E232,
